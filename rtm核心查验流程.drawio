@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLsIRPu0JwRJU4ILVOb_-7" value="筛选负责人" style="whiteSpace=wrap;html=1;rounded=1;" parent="eiGT6yipun40KPxp0-vt-20" vertex="1">
-          <mxGeometry x="85.99999999999955" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="85.99999999999955" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLsIRPu0JwRJU4ILVOb_-9" value="下发终端" style="whiteSpace=wrap;html=1;rounded=1;" parent="eiGT6yipun40KPxp0-vt-20" vertex="1">
-          <mxGeometry x="84.99999999999955" y="327" width="120" height="60" as="geometry" />
+          <mxGeometry x="85.99999999999955" y="327" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ycrp0RfgTNs0r02AdbmH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.643;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eiGT6yipun40KPxp0-vt-20" source="mLsIRPu0JwRJU4ILVOb_-9" target="mLsIRPu0JwRJU4ILVOb_-9">
           <mxGeometry relative="1" as="geometry" />
