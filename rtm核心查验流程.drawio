@@ -34,6 +34,14 @@
         <mxCell id="mLsIRPu0JwRJU4ILVOb_-9" value="下发终端" style="whiteSpace=wrap;html=1;rounded=1;" parent="eiGT6yipun40KPxp0-vt-20" vertex="1">
           <mxGeometry x="84.99999999999955" y="327" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ycrp0RfgTNs0r02AdbmH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.643;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eiGT6yipun40KPxp0-vt-20" source="mLsIRPu0JwRJU4ILVOb_-9" target="mLsIRPu0JwRJU4ILVOb_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ycrp0RfgTNs0r02AdbmH-2" value="取消下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ycrp0RfgTNs0r02AdbmH-1">
+          <mxGeometry x="-0.0049" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mLsIRPu0JwRJU4ILVOb_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="eiGT6yipun40KPxp0-vt-19" source="mLsIRPu0JwRJU4ILVOb_-9" target="eiGT6yipun40KPxp0-vt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -46,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-2" value="终端查验" style="rounded=1;whiteSpace=wrap;html=1;" parent="eiGT6yipun40KPxp0-vt-21" vertex="1">
-          <mxGeometry x="69" y="381" width="145" height="59" as="geometry" />
+          <mxGeometry x="80" y="381" width="134" height="59" as="geometry" />
         </mxCell>
         <mxCell id="mLsIRPu0JwRJU4ILVOb_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="eiGT6yipun40KPxp0-vt-21" source="mLsIRPu0JwRJU4ILVOb_-12" target="mLsIRPu0JwRJU4ILVOb_-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,10 +69,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1534" y="521" width="20" height="761" as="geometry" />
+          <mxGeometry x="1540" y="500" width="20" height="790" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;查验全步骤记录回溯&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1416" y="887" width="101" height="56" as="geometry" />
+          <mxGeometry x="1422" y="865" width="101" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
