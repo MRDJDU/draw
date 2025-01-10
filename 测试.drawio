@@ -11,10 +11,10 @@
           <mxGeometry y="20" width="300" height="465" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-1" value="下发终端" style="rounded=1;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="eiGT6yipun40KPxp0-vt-20">
-          <mxGeometry x="77.99999999999955" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="77.99999999999955" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-3" value="终端查验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eiGT6yipun40KPxp0-vt-20">
-          <mxGeometry x="76" y="188" width="120" height="60" as="geometry" />
+          <mxGeometry x="76" y="208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-21" value="一线人员" style="swimlane;startSize=20;html=1;" vertex="1" parent="eiGT6yipun40KPxp0-vt-19">
           <mxGeometry x="300" y="20" width="300" height="465" as="geometry">
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-2" value="终端查验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eiGT6yipun40KPxp0-vt-21">
-          <mxGeometry x="57" y="188" width="120" height="60" as="geometry" />
+          <mxGeometry x="57" y="208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiGT6yipun40KPxp0-vt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eiGT6yipun40KPxp0-vt-19" source="eiGT6yipun40KPxp0-vt-1" target="eiGT6yipun40KPxp0-vt-2">
           <mxGeometry relative="1" as="geometry" />
