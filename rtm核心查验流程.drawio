@@ -77,8 +77,8 @@
         <mxCell id="eiGT6yipun40KPxp0-vt-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1540" y="500" width="20" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="eiGT6yipun40KPxp0-vt-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;查验全步骤记录回溯&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1422" y="865" width="101" height="56" as="geometry" />
+        <mxCell id="eiGT6yipun40KPxp0-vt-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;查验全步骤记录回溯&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1435" y="868" width="87" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
